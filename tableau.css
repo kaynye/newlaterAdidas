@@ -1,0 +1,27 @@
+table{
+
+    width: 700px;
+   
+    margin: 0 auto;
+   
+    height: 120px;
+   
+    border-collapse: collapse; /* permet de fusionner les bordures des cellules d'un tableau */
+   
+   }
+   
+    
+   
+   th{
+   
+    background: #eee;
+   
+   }
+   
+    
+   
+   th, td{
+   
+    
+    border: 1px solid; text-align:center;
+   } 

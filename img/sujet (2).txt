@@ -1,0 +1,3 @@
+Réaliser la newsletter représenté par les maquettes dans le dossier 'capture'.
+
+Les photos sont fournies, il vous reste à recréer une newsletter au format html.
